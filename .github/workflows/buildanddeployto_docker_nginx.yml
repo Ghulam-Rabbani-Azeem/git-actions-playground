@@ -25,9 +25,9 @@ jobs:
 
     - name: Build Docker image
       run: |
-        docker build -t ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest .
+        docker build -t rabbani676/deploy-this-to-docker-and-nginx:latest .
 
     - name: Push Docker image to Docker Hub
       run: |
-        docker tag ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest
-        docker push ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest
+        docker tag rabbani676/deploy-this-to-docker-and-nginx:latest rabbani676/deploy-this-to-docker-and-nginx:latest
+        docker push rabbani676/deploy-this-to-docker-and-nginx:latest
