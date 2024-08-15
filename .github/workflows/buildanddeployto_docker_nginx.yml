@@ -1,4 +1,4 @@
-name: Deploy this to Docker and Nginx
+name: Deploy to Docker and Nginx
 
 on:
   push:
@@ -24,23 +24,21 @@ jobs:
 
     - name: Build Docker image
       run: |
-        docker build -t Deploy this to Docker and Nginx:latest .
+        docker build -t deploy-this-to-docker-and-nginx:latest .
 
     - name: Push Docker image to Docker Hub
       run: |
-        docker tag Deploy this to Docker and Nginx:latest ${{ secrets.DOCKER_USERNAME }}/my-app:latest
-        docker push ${{ secrets.DOCKER_USERNAME }}/Deploy this to Docker and Nginx:latest
+        docker tag deploy-this-to-docker-and-nginx:latest ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest
+        docker push ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest
 
     - name: Deploy Docker container
       run: |
-        docker pull ${{ secrets.DOCKER_USERNAME }}/Deploy this to Docker and Nginx:latest
-        docker stop Deploy this to Docker and Nginx || true
-        docker rm Deploy this to Docker and Nginx || true
-        docker run -d --name Deploy this to Docker and Nginx -p 80:80 ${{ secrets.DOCKER_USERNAME }}/Deploy this to Docker and Nginx:latest
+        docker pull ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest
+        docker stop deploy-this-to-docker-and-nginx || true
+        docker rm deploy-this-to-docker-and-nginx || true
+        docker run -d --name deploy-this-to-docker-and-nginx -p 80:80 ${{ secrets.DOCKER_USERNAME }}/deploy-this-to-docker-and-nginx:latest
 
     - name: Configure Nginx
       run: |
-        # Replace the following commands with your Nginx configuration setup
-        # Here we assume you have a Docker container with Nginx that can be configured.
-        docker exec -it my-nginx-container bash -c 'echo "server { listen 80; location / { proxy_pass http://Deploy this to Docker and Nginx:80; } }" > /etc/nginx/conf.d/default.conf'
+        docker exec -it my-nginx-container bash -c 'echo "server { listen 80; location / { proxy_pass http://deploy-this-to-docker-and-nginx:80; } }" > /etc/nginx/conf.d/default.conf'
         docker exec -it my-nginx-container nginx -s reload
