@@ -29,5 +29,4 @@ jobs:
 
     - name: Push Docker image to Docker Hub
       run: |
-        docker tag rabbani676/deploy-this-to-docker-and-nginx:latest rabbani676/deploy-this-to-docker-and-nginx:latest
         docker push rabbani676/deploy-this-to-docker-and-nginx:latest
