@@ -1,4 +1,4 @@
-name: Deploy to Docker and Nginx
+name: Deploy image to Docker and Nginx
 
 on:
   push:
