@@ -24,23 +24,23 @@ jobs:
 
     - name: Build Docker image
       run: |
-        docker build -t my-app:latest .
+        docker build -t Deploy this to Docker and Nginx:latest .
 
     - name: Push Docker image to Docker Hub
       run: |
-        docker tag my-app:latest ${{ secrets.DOCKER_USERNAME }}/my-app:latest
-        docker push ${{ secrets.DOCKER_USERNAME }}/my-app:latest
+        docker tag Deploy this to Docker and Nginx:latest ${{ secrets.DOCKER_USERNAME }}/my-app:latest
+        docker push ${{ secrets.DOCKER_USERNAME }}/Deploy this to Docker and Nginx:latest
 
     - name: Deploy Docker container
       run: |
-        docker pull ${{ secrets.DOCKER_USERNAME }}/my-app:latest
-        docker stop my-app || true
-        docker rm my-app || true
-        docker run -d --name my-app -p 80:80 ${{ secrets.DOCKER_USERNAME }}/my-app:latest
+        docker pull ${{ secrets.DOCKER_USERNAME }}/Deploy this to Docker and Nginx:latest
+        docker stop Deploy this to Docker and Nginx || true
+        docker rm Deploy this to Docker and Nginx || true
+        docker run -d --name Deploy this to Docker and Nginx -p 80:80 ${{ secrets.DOCKER_USERNAME }}/Deploy this to Docker and Nginx:latest
 
     - name: Configure Nginx
       run: |
         # Replace the following commands with your Nginx configuration setup
         # Here we assume you have a Docker container with Nginx that can be configured.
-        docker exec -it my-nginx-container bash -c 'echo "server { listen 80; location / { proxy_pass http://my-app:80; } }" > /etc/nginx/conf.d/default.conf'
+        docker exec -it my-nginx-container bash -c 'echo "server { listen 80; location / { proxy_pass http://Deploy this to Docker and Nginx:80; } }" > /etc/nginx/conf.d/default.conf'
         docker exec -it my-nginx-container nginx -s reload
