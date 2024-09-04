@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Real Costco members know how to spot the clearance deals\n\n![Meme](https://i.redd.it/dwpmoqunzhmd1.png)\n\n[View on Reddit](https://redd.it/1f7ntyk)"
+"### Of all the things that they can do with it\n\n![Meme](https://i.redd.it/eqjh279qqpmd1.png)\n\n[View on Reddit](https://redd.it/1f8jnix)"
