@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Shrinkflation be like \n\n![Meme](https://i.redd.it/dfs238jpdwnd1.png)\n\n[View on Reddit](https://redd.it/1fd81x4)"
+"### LOCK THE DOORS\n\n![Meme](https://i.redd.it/h5s3fsdio3od1.png)\n\n[View on Reddit](https://redd.it/1fe0tld)"
