@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### LOCK THE DOORS\n\n![Meme](https://i.redd.it/h5s3fsdio3od1.png)\n\n[View on Reddit](https://redd.it/1fe0tld)"
+"### Emphasis on the word \"yet\"\n\n![Meme](https://i.redd.it/g2pq5r8rw6od1.gif)\n\n[View on Reddit](https://redd.it/1febgjp)"
