@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I'm a bit of a foreign affairs buff.\n\n![Meme](https://i.redd.it/beszgl1gpfod1.png)\n\n[View on Reddit](https://redd.it/1ffbwh8)"
+"### I know that I know nothing\n\n![Meme](https://i.redd.it/zzow9ebb7vod1.png)\n\n[View on Reddit](https://redd.it/1fgzw7u)"
