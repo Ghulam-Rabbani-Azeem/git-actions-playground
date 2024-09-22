@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### careful what you wish for\n\n![Meme](https://i.redd.it/inpr3kq2tzpd1.png)\n\n[View on Reddit](https://redd.it/1flghqe)"
+"### I hate new Tik Tok challenges \n\n![Meme](https://i.redd.it/2z09b1gu09qd1.png)\n\n[View on Reddit](https://redd.it/1fmg2jn)"
