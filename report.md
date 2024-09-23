@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I hate new Tik Tok challenges \n\n![Meme](https://i.redd.it/2z09b1gu09qd1.png)\n\n[View on Reddit](https://redd.it/1fmg2jn)"
+"### Getting a grip on the situation was a messy\n\n![Meme](https://i.redd.it/g55vl8xl4iqd1.gif)\n\n[View on Reddit](https://redd.it/1fndwxn)"
