@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### But it's so hard!\n\n![Meme](https://i.redd.it/wo63m5aap8qd1.gif)\n\n[View on Reddit](https://redd.it/1fmes9g)"
+"### Me_irl\n\n![Meme](https://i.redd.it/or13d8o0h9qd1.png)\n\n[View on Reddit](https://redd.it/1fmhr9j)"
