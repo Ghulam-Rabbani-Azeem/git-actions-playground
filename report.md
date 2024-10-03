@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.imgur.com/xFOr1ex.png)\n\n[View on Reddit](https://redd.it/1frw0tm)"
+"### I guess we have to eat them now\n\n![Meme](https://i.redd.it/gsw934fgs2sd1.png)\n\n[View on Reddit](https://redd.it/1ftg9i6)"
