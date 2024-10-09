@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Hope you are doing good irl o7\n\n![Meme](https://i.redd.it/wdhwsz0iqdtd1.png)\n\n[View on Reddit](https://redd.it/1fyf7ao)"
+"### Just… stop. I want to listen to my great music and not be reminded of cringey TikToks\n\n![Meme](https://i.redd.it/sgvki5mbkntd1.gif)\n\n[View on Reddit](https://redd.it/1fzioyz)"
