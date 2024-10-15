@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/gjnbm67ixjud1.png)\n\n[View on Reddit](https://redd.it/1g2ts81)"
+"### Only masochists still use Chrome\n\n![Meme](https://i.redd.it/rs137jckupud1.gif)\n\n[View on Reddit](https://redd.it/1g3em0i)"
