@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Nah, I'd lose\n\n![Meme](https://i.redd.it/7iic4r8aotwd1.gif)\n\n[View on Reddit](https://redd.it/1gbl5f4)"
+"### Tat‬ers, pre‬cious\n\n![Meme](https://i.redd.it/y0lr1npdtewd1.png)\n\n[View on Reddit](https://redd.it/1g9yvu8)"
