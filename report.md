@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/kayuwfrmbxyd1.png)\n\n[View on Reddit](https://redd.it/1gjkm3q)"
+"### I hope it's for \n\n![Meme](https://i.redd.it/ov1ada7r4mzd1.png)\n\n[View on Reddit](https://redd.it/1gmb9s5)"
