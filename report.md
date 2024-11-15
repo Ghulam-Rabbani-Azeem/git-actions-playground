@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### The dealer pulled 6 card 21\n\n![Meme](https://i.redd.it/0o18nja38n0e1.gif)\n\n[View on Reddit](https://redd.it/1gq9nd9)"
+"### It all sounds the same\n\n![Meme](https://i.redd.it/7tae3o8cao0e1.png)\n\n[View on Reddit](https://redd.it/1gqd5bd)"
