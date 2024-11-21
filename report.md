@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Have some shame sir\n\n![Meme](https://i.redd.it/696yvn6e3v1e1.gif)\n\n[View on Reddit](https://redd.it/1guxcpa)"
+"### Guys can relate\n\n![Meme](https://i.redd.it/1d4a8hj9r32e1.png)\n\n[View on Reddit](https://redd.it/1gvwvxt)"
