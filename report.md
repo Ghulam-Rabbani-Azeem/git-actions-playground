@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.imgur.com/lqIqBUu.png)\n\n[View on Reddit](https://redd.it/1h0lxwd)"
+"### \"R-Really?\"\n\n![Meme](https://i.redd.it/v5m4wvvsgk3e1.png)\n\n[View on Reddit](https://redd.it/1h1nep9)"
