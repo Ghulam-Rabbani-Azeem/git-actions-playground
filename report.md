@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### No one will know\n\n![Meme](https://i.redd.it/yh6hkq5b9h3e1.gif)\n\n[View on Reddit](https://redd.it/1h19gp8)"
+"### best I could do in this economy\n\n![Meme](https://i.redd.it/3kokfwqnkg3e1.gif)\n\n[View on Reddit](https://redd.it/1h168ct)"
