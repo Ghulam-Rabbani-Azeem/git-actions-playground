@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### \"Yes!... Wait, fucc!\"\n\n![Meme](https://i.redd.it/z2iozevb4x3e1.png)\n\n[View on Reddit](https://redd.it/1h2xtzr)"
+"### Do you mind?\n\n![Meme](https://i.redd.it/ei03kig6w14e1.gif)\n\n[View on Reddit](https://redd.it/1h3dxa3)"
