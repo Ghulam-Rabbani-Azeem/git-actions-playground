@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Do you mind?\n\n![Meme](https://i.redd.it/ei03kig6w14e1.gif)\n\n[View on Reddit](https://redd.it/1h3dxa3)"
+"### me_irl\n\n![Meme](https://i.redd.it/38onfz463e4e1.png)\n\n[View on Reddit](https://redd.it/1h4pt5t)"
