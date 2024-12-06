@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### 95 percent true\n\n![Meme](https://i.redd.it/qwu7syjfly4e1.png)\n\n[View on Reddit](https://redd.it/1h7111d)"
+"### Something about a camel and the eye of a needle\n\n![Meme](https://i.redd.it/zi5batxkk55e1.png)\n\n[View on Reddit](https://redd.it/1h7sr2i)"
