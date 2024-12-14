@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### it's easier\n\n![Meme](https://i.redd.it/6wpz3645lf6e1.png)\n\n[View on Reddit](https://redd.it/1hcmqva)"
+"### Best I can do is a pizza party\n\n![Meme](https://i.redd.it/2a6ebh1ba96e1.gif)\n\n[View on Reddit](https://redd.it/1hbz4g5)"
