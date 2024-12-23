@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### When you browse a hentai site unfiltered\n\n![Meme](https://i.redd.it/pcr6z9npl88e1.gif)\n\n[View on Reddit](https://redd.it/1hjen95)"
+"### They really do be like that\n\n![Meme](https://i.redd.it/v38nqw394k8e1.gif)\n\n[View on Reddit](https://redd.it/1hkja4u)"
