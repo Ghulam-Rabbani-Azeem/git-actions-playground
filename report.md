@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Step sis moment.\n\n![Meme](https://i.redd.it/ncn6xhodqede1.png)\n\n[View on Reddit](https://redd.it/1i2x2m5)"
+"### I wont steal anything, I swear! :,(\n\n![Meme](https://i.redd.it/4pfq8scgppde1.png)\n\n[View on Reddit](https://redd.it/1i433sl)"
