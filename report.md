@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Guess at this point you can only remix existing stuff...\n\n![Meme](https://i.redd.it/upihvjs0v8ge1.png)\n\n[View on Reddit](https://redd.it/1ie53bq)"
+"### Only few knock's away.\n\n![Meme](https://i.redd.it/u436vmm15hge1.png)\n\n[View on Reddit](https://redd.it/1if0l2q)"
