@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### When the post nut clarity hits\n\n![Meme](https://i.redd.it/9ijwkdc1rqge1.png)\n\n[View on Reddit](https://redd.it/1ifz4oa)"
+"### me_irl\n\n![Meme](https://i.redd.it/hfomzj6v01he1.png)\n\n[View on Reddit](https://redd.it/1ih68vv)"
