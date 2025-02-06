@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Exact same thing happened to my mother...\n\n![Meme](https://i.redd.it/aw2m408jgxge1.png)\n\n[View on Reddit](https://redd.it/1igp9zt)"
+"### It do be like that\n\n![Meme](https://i.redd.it/uainrl741ehe1.png)\n\n[View on Reddit](https://redd.it/1iila3n)"
