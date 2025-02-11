@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/ie0zlgb6mvhe1.png)\n\n[View on Reddit](https://redd.it/1ikisnw)"
+"### Good time to be alive.\n\n![Meme](https://i.redd.it/crt7089ljaie1.png)\n\n[View on Reddit](https://redd.it/1im3ban)"
