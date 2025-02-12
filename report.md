@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Good time to be alive.\n\n![Meme](https://i.redd.it/crt7089ljaie1.png)\n\n[View on Reddit](https://redd.it/1im3ban)"
+"### Is Taylor gone yet?\n\n![Meme](https://i.redd.it/doqlzsg2a8ie1.png)\n\n[View on Reddit](https://redd.it/1ilwef5)"
