@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Audiophiles be like\n\n![Meme](https://i.redd.it/z6e7mb7h6bke1.png)\n\n[View on Reddit](https://redd.it/1iu0fmv)"
+"### Last place he’ll go to\n\n![Meme](https://i.imgur.com/0RAg64P.gif)\n\n[View on Reddit](https://redd.it/1iumh6c)"
