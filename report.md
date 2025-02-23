@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Last place he’ll go to\n\n![Meme](https://i.imgur.com/0RAg64P.gif)\n\n[View on Reddit](https://redd.it/1iumh6c)"
+"### I bet they invented dinosaur names\n\n![Meme](https://i.redd.it/nksnyudy2jke1.png)\n\n[View on Reddit](https://redd.it/1iuwl2u)"
