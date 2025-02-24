@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I bet they invented dinosaur names\n\n![Meme](https://i.redd.it/nksnyudy2jke1.png)\n\n[View on Reddit](https://redd.it/1iuwl2u)"
+"### me_irl\n\n![Meme](https://i.redd.it/66wnlx55oxke1.png)\n\n[View on Reddit](https://redd.it/1iwh1cd)"
