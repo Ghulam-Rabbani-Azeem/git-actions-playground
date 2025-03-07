@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### that is certainly a great weakness\n\n![Meme](https://i.redd.it/k86yysc9gume1.png)\n\n[View on Reddit](https://redd.it/1j3zo24)"
+"### me irl\n\n![Meme](https://i.imgflip.com/9m7mmb.jpg)\n\n[View on Reddit](https://redd.it/1j3akar)"
