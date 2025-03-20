@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Thiktok\n\n![Meme](https://i.redd.it/l10q9gdxs6pe1.gif)\n\n[View on Reddit](https://redd.it/1jd5m76)"
+"### Hopefully that ad was expensive\n\n![Meme](https://i.redd.it/b1rxlfmseppe1.gif)\n\n[View on Reddit](https://redd.it/1jf6j3j)"
