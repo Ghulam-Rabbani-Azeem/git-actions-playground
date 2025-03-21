@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Hopefully that ad was expensive\n\n![Meme](https://i.redd.it/b1rxlfmseppe1.gif)\n\n[View on Reddit](https://redd.it/1jf6j3j)"
+"### Me_irl\n\n![Meme](https://i.redd.it/d2kuxltvdrpe1.png)\n\n[View on Reddit](https://redd.it/1jff6kw)"
