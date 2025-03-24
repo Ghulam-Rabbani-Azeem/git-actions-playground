@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It happened last night\n\n![Meme](https://i.redd.it/ozfelh4azcqe1.png)\n\n[View on Reddit](https://redd.it/1jhqa56)"
+"### It knows everything\n\n![Meme](https://i.redd.it/m6nxs3fn0jqe1.png)\n\n[View on Reddit](https://redd.it/1jidc0o)"
