@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/50xz22v1llqe1.png)\n\n[View on Reddit](https://redd.it/1jilvnk)"
+"### I see this as an absolute win.\n\n![Meme](https://i.redd.it/dr6lyljw4zqe1.png)\n\n[View on Reddit](https://redd.it/1jk51ci)"
