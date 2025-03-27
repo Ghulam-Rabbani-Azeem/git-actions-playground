@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I see this as an absolute win.\n\n![Meme](https://i.redd.it/dr6lyljw4zqe1.png)\n\n[View on Reddit](https://redd.it/1jk51ci)"
+"### How do you do, fellow cartoon enjoyers?\n\n![Meme](https://i.redd.it/b4al01f1zwqe1.png)\n\n[View on Reddit](https://redd.it/1jjwo0e)"
