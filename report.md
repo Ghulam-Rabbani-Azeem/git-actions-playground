@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Mojang is officially adding a new ghast to Minecraft\n\n![Meme](https://i.redd.it/ssbnw18p2kre1.png)\n\n[View on Reddit](https://redd.it/1jmee1j)"
+"### Only at Taco Bell\n\n![Meme](https://i.redd.it/j6p0xx42irre1.png)\n\n[View on Reddit](https://redd.it/1jn5kk8)"
