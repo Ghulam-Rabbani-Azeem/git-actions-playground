@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Almost had it\n\n![Meme](https://i.redd.it/hte6hqk2lhre1.gif)\n\n[View on Reddit](https://redd.it/1jm45si)"
+"### Standards so high smh\n\n![Meme](https://i.redd.it/lqke20ckt1se1.png)\n\n[View on Reddit](https://redd.it/1jo6rl9)"
