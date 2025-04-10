@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### The time is now\n\n![Meme](https://i.redd.it/piqt82dwfpte1.gif)\n\n[View on Reddit](https://redd.it/1jut3v7)"
+"### Shut up nerd it's close enough\n\n![Meme](https://i.redd.it/0yiiey9d8tte1.gif)\n\n[View on Reddit](https://redd.it/1jv5lqe)"
