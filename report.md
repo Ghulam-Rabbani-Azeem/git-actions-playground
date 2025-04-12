@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/0xontswux1ue1.png)\n\n[View on Reddit](https://redd.it/1jw58mc)"
+"### Her mom must get around…\n\n![Meme](https://i.redd.it/m0y9idqi0rte1.gif)\n\n[View on Reddit](https://redd.it/1juyqbd)"
