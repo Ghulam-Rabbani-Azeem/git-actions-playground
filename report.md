@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/n5jkpofbudue1.png)\n\n[View on Reddit](https://redd.it/1jxeeua)"
+"### Best Life Advice\n\n![Meme](https://i.redd.it/3mxow4k9xvue1.png)\n\n[View on Reddit](https://redd.it/1jzd89g)"
