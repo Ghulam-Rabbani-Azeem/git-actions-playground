@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Erm, what the Sigma?\n\n![Meme](https://i.redd.it/juehy32lr2ve1.png)\n\n[View on Reddit](https://redd.it/1k04ykv)"
+"### 4chan is kill\n\n![Meme](https://i.redd.it/wdvvabcv43ve1.gif)\n\n[View on Reddit](https://redd.it/1k06jsm)"
