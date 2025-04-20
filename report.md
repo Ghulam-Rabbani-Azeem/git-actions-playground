@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Confused asf\n\n![Meme](https://i.redd.it/aonccp80hjve1.gif)\n\n[View on Reddit](https://redd.it/1k1yfrw)"
+"### me_irl\n\n![Meme](https://i.redd.it/dp0xmmeggfve1.png)\n\n[View on Reddit](https://redd.it/1k1i1k8)"
