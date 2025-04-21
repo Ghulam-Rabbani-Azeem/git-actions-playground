@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/dp0xmmeggfve1.png)\n\n[View on Reddit](https://redd.it/1k1i1k8)"
+"### 2020 in one image\n\n![Meme](https://i.redd.it/b5vhvpormwve1.png)\n\n[View on Reddit](https://redd.it/1k3cz1d)"
