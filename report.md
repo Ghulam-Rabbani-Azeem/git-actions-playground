@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://clubsall.com/posts/meirl-SbpXL.jpg)\n\n[View on Reddit](https://redd.it/1kcgp8d)"
+"### Me_irl\n\n![Meme](https://i.redd.it/7629fryju5ye1.png)\n\n[View on Reddit](https://redd.it/1kc6zzy)"
