@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### C.O.D: Snu snu\n\n![Meme](https://i.redd.it/rcocfw6v8hze1.png)\n\n[View on Reddit](https://redd.it/1khgi32)"
+"### me_irl\n\n![Meme](https://i.redd.it/2xw9jfmuzdze1.png)\n\n[View on Reddit](https://redd.it/1kh1re9)"
