@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/q9zi3b1m3m0f1.png)\n\n[View on Reddit](https://redd.it/1klx0sf)"
+"### Every time\n\n![Meme](https://i.redd.it/g6o1cvj7e01f1.gif)\n\n[View on Reddit](https://redd.it/1knj3xf)"
