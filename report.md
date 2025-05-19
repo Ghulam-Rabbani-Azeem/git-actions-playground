@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### well...fuck\n\n![Meme](https://i.redd.it/s18a153flg1f1.gif)\n\n[View on Reddit](https://redd.it/1kpakfx)"
+"### Me_irl\n\n![Meme](https://i.redd.it/syzpwjxe9m1f1.png)\n\n[View on Reddit](https://redd.it/1kpw9wo)"
