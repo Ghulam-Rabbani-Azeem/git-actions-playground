@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Die Hard\n\n![Meme](https://i.redd.it/acim6zerm92f1.png)\n\n[View on Reddit](https://redd.it/1ksimmy)"
+"### Poor Prince Philip\n\n![Meme](https://i.redd.it/hfby8e9wwl2f1.png)\n\n[View on Reddit](https://redd.it/1ktw9nb)"
