@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/lwuhw1mowt2f1.png)\n\n[View on Reddit](https://redd.it/1kuqqia)"
+"### system error\n\n![Meme](https://i.redd.it/3myvqa2kop2f1.gif)\n\n[View on Reddit](https://redd.it/1ku8z37)"
