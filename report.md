@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Why pay $80 when you can buy Indie?\n\n![Meme](https://i.redd.it/u7krn3h71i4f1.png)\n\n[View on Reddit](https://redd.it/1l1fjnm)"
+"### The Dutch government is no more\n\n![Meme](https://i.redd.it/65kmwgqter4f1.gif)\n\n[View on Reddit](https://redd.it/1l2k76j)"
