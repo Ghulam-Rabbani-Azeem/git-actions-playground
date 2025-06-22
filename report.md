@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.imgur.com/LwJqm20.jpg)\n\n[View on Reddit](https://redd.it/1le1wd4)"
+"### Me_irl\n\n![Meme](https://i.redd.it/adryadasq18f1.png)\n\n[View on Reddit](https://redd.it/1lfz6sv)"
