@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/tho2ju9e259f1.png)\n\n[View on Reddit](https://redd.it/1lkhntt)"
+"### It’s my favorite song by them\n\n![Meme](https://i.redd.it/kxyt6ojlv99f1.gif)\n\n[View on Reddit](https://redd.it/1lkzzdz)"
