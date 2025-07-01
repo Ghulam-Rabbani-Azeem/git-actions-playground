@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I mean, It is true\n\n![Meme](https://i.redd.it/i4m0p8y0i0af1.png)\n\n[View on Reddit](https://redd.it/1lo0tmi)"
+"### MY LORD keeps testing me\n\n![Meme](https://i.redd.it/99jg5x9ri3af1.png)\n\n[View on Reddit](https://redd.it/1locxnx)"
