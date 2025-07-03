@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/uubyeebe4eaf1.png)\n\n[View on Reddit](https://redd.it/1lpmysz)"
+"### There is no title.\n\n![Meme](https://i.redd.it/h153ow63m5af1.png)\n\n[View on Reddit](https://redd.it/1long4x)"
