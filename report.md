@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Choosing the Operating System\n\n![Meme](https://i.imgur.com/jcKsWAx.png)\n\n[View on Reddit](https://redd.it/1lt5a0z)"
+"### me_irl\n\n![Meme](https://i.redd.it/mcho6vhcmkbf1.png)\n\n[View on Reddit](https://redd.it/1luel5t)"
