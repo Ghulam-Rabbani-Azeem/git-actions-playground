@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### What Epstein list? This is a peaceful city.\n\n![Meme](https://i.redd.it/sqbvvds2sybf1.gif)\n\n[View on Reddit](https://redd.it/1lw2dfj)"
+"### me_irl\n\n![Meme](https://i.redd.it/aul42f8314cf1.png)\n\n[View on Reddit](https://redd.it/1lwnxiv)"
