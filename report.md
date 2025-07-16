@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Gotta love it when the knives come out.\n\n![Meme](https://i.redd.it/1ngg2coqkycf1.png)\n\n[View on Reddit](https://redd.it/1m07fn2)"
+"### It’s technically a scar…\n\n![Meme](https://i.redd.it/1ujz3j4xoycf1.gif)\n\n[View on Reddit](https://redd.it/1m07v9r)"
