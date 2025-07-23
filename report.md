@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Corner-cutting motherfuckers..\n\n![Meme](https://i.redd.it/csqxjm8lbaef1.gif)\n\n[View on Reddit](https://redd.it/1m5tkgu)"
+"### Sorry I'm ignorant\n\n![Meme](https://i.redd.it/czi9ccvwd2ef1.png)\n\n[View on Reddit](https://redd.it/1m4ur38)"
