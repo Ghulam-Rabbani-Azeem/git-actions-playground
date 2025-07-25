@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/ktcybcpueoef1.png)\n\n[View on Reddit](https://redd.it/1m7iu4a)"
+"### All in one episode bruh….\n\n![Meme](https://i.redd.it/yz8xkzenhref1.gif)\n\n[View on Reddit](https://redd.it/1m7we62)"
