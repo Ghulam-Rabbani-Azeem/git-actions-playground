@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Should be a fireable offense\n\n![Meme](https://i.redd.it/dukw03emjnff1.gif)\n\n[View on Reddit](https://redd.it/1mbmyd0)"
+"### When the tea is too hot!\n\n![Meme](https://i.redd.it/9ac2qywx8fff1.png)\n\n[View on Reddit](https://redd.it/1mamrby)"
