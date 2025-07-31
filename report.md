@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### When the tea is too hot!\n\n![Meme](https://i.redd.it/9ac2qywx8fff1.png)\n\n[View on Reddit](https://redd.it/1mamrby)"
+"### The myth of consensual gaming.\n\n![Meme](https://i.redd.it/ii6uzju5mzff1.png)\n\n[View on Reddit](https://redd.it/1md2u3s)"
