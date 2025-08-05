@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Why's there an execution.mp4 attachment?\n\n![Meme](https://i.redd.it/t13z47gurxgf1.gif)\n\n[View on Reddit](https://redd.it/1mh4rds)"
+"### Boys at 14\n\n![Meme](https://i.redd.it/4p3ygipzmtgf1.png)\n\n[View on Reddit](https://redd.it/1mgltjg)"
