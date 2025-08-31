@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### We are so back\n\n![Meme](https://i.redd.it/qwu34bplejlf1.gif)\n\n[View on Reddit](https://redd.it/1n1d29a)"
+"### Every time I get a views notification\n\n![Meme](https://i.redd.it/w8gwleim8amf1.png)\n\n[View on Reddit](https://redd.it/1n4lizy)"
