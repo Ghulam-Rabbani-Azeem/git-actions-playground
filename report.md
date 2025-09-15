@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### For real.\n\n![Meme](https://i.redd.it/zkg3px4b9hof1.png)\n\n[View on Reddit](https://redd.it/1ne19nc)"
+"### How cute and adorable.\n\n![Meme](https://i.redd.it/p1tjr1iiwyof1.gif)\n\n[View on Reddit](https://redd.it/1ng3hzl)"
