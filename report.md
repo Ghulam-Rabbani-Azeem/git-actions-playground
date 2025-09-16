@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### How cute and adorable.\n\n![Meme](https://i.redd.it/p1tjr1iiwyof1.gif)\n\n[View on Reddit](https://redd.it/1ng3hzl)"
+"### Me_irl\n\n![Meme](https://i.redd.it/fe0py2btjgpf1.png)\n\n[View on Reddit](https://redd.it/1ni8d6i)"
