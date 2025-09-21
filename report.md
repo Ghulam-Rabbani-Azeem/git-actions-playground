@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/m6gwulnwb3qf1.png)\n\n[View on Reddit](https://redd.it/1nkyxuc)"
+"### It’s just not the same without Matt. It’s like playing someone else save file. I don’t even like fnaf\n\n![Meme](https://i.redd.it/587qbjlel7qf1.gif)\n\n[View on Reddit](https://redd.it/1nljccy)"
