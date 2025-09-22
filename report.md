@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It’s just not the same without Matt. It’s like playing someone else save file. I don’t even like fnaf\n\n![Meme](https://i.redd.it/587qbjlel7qf1.gif)\n\n[View on Reddit](https://redd.it/1nljccy)"
+"### It just does a little silly\n\n![Meme](https://i.redd.it/0zw22yvxalqf1.png)\n\n[View on Reddit](https://redd.it/1nn4wjw)"
