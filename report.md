@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Neither myself or anyone I know was good enough. Is it time to party?\n\n![Meme](https://i.redd.it/200senkm38rf1.png)\n\n[View on Reddit](https://redd.it/1npvd5p)"
+"### hate when they do that\n\n![Meme](https://i.redd.it/vw2ogqahlorf1.png)\n\n[View on Reddit](https://redd.it/1nrrgla)"
