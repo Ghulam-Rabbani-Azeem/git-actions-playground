@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Umm.......\n\n![Meme](https://i.redd.it/1q0b6srzuwrf1.png)\n\n[View on Reddit](https://redd.it/1nsow2k)"
+"### ok, where's the trick?\n\n![Meme](https://i.redd.it/skvp3jubn8sf1.png)\n\n[View on Reddit](https://redd.it/1nu4x87)"
