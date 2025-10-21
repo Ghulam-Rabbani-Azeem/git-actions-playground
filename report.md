@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/b3zq1gsp0zvf1.png)\n\n[View on Reddit](https://redd.it/1oad332)"
+"### OH MY GOD HOW COULD HE DO THAT! I’VE NEVER SEEN THIS BEFORE\n\n![Meme](https://i.redd.it/c16saq5ndcwf1.gif)\n\n[View on Reddit](https://redd.it/1obvq2r)"
