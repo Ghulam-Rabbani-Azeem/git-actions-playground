@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Thinking topic\n\n![Meme](https://i.redd.it/fd4f8f3yasxf1.gif)\n\n[View on Reddit](https://redd.it/1oi0rjl)"
+"### me_irl\n\n![Meme](https://i.redd.it/4oyoiglb3iyf1.png)\n\n[View on Reddit](https://redd.it/1ol481w)"
