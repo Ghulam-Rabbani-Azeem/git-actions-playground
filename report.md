@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### null\n\n![Meme](null)\n\n[View on Reddit](null)"
+"### Title*\n\n![Meme](https://i.redd.it/8ytohvn4grzf1.png)\n\n[View on Reddit](https://redd.it/1oqkoo7)"
