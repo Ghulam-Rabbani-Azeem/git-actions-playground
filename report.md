@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Title*\n\n![Meme](https://i.redd.it/8ytohvn4grzf1.png)\n\n[View on Reddit](https://redd.it/1oqkoo7)"
+"### Special Announcement\n\n![Meme](https://i.redd.it/buk8gwqcfpzf1.png)\n\n[View on Reddit](https://redd.it/1oqbgzu)"
