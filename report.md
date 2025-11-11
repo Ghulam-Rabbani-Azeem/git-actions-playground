@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### \"Why Are You Running?! WHY ARE YOU RUNNING?!\" ~Imhotep\n\n![Meme](https://i.redd.it/a6phmmnj2d0g1.png)\n\n[View on Reddit](https://redd.it/1ot509h)"
+"### \"Thanks for your generous donation, mister.\"\n\n![Meme](https://i.redd.it/kw7smcyb6d0g1.png)\n\n[View on Reddit](https://redd.it/1ot5f4j)"
