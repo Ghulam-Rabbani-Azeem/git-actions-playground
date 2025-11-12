@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### \"Thanks for your generous donation, mister.\"\n\n![Meme](https://i.redd.it/kw7smcyb6d0g1.png)\n\n[View on Reddit](https://redd.it/1ot5f4j)"
+"### It's their 50 Shade's\n\n![Meme](https://i.redd.it/wucbyrl7lm0g1.png)\n\n[View on Reddit](https://redd.it/1ou8r1c)"
