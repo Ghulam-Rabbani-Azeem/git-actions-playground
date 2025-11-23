@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It's over soon\n\n![Meme](https://i.redd.it/dleb4hkie22g1.png)\n\n[View on Reddit](https://redd.it/1p0kxp8)"
+"### The Water's pH Changed by 0.1%! Guess I'm Bleached Now!\n\n![Meme](https://i.redd.it/xk3eijjsov2g1.png)\n\n[View on Reddit](https://redd.it/1p451us)"
