@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Stay safe out there you guys\n\n![Meme](https://i.redd.it/2rtx9d15bq3g1.gif)\n\n[View on Reddit](https://redd.it/1p7t5aj)"
+"### We are heading towards a very dark future.\n\n![Meme](https://i.redd.it/6fm64gdw9z3g1.png)\n\n[View on Reddit](https://redd.it/1p8rxpj)"
