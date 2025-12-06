@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### idk what to name this ig mom powers can still pause online games idk man tierd\n\n![Meme](https://i.redd.it/b5yo5pipma5g1.png)\n\n[View on Reddit](https://redd.it/1peiugl)"
+"### me_irl\n\n![Meme](https://i.redd.it/x5hiu2zvxe5g1.png)\n\n[View on Reddit](https://redd.it/1pezp8f)"
