@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/x5hiu2zvxe5g1.png)\n\n[View on Reddit](https://redd.it/1pezp8f)"
+"### Do I need a lawyer?\n\n![Meme](https://i.redd.it/lekfobw7ya5g1.gif)\n\n[View on Reddit](https://redd.it/1pek71j)"
