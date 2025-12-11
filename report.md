@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.imgur.com/lqIqBUu.png)\n\n[View on Reddit](https://redd.it/1piicer)"
+"### Hmm yes i will do it too\n\n![Meme](https://i.redd.it/erdals1c7d6g1.png)\n\n[View on Reddit](https://redd.it/1pj0l1n)"
