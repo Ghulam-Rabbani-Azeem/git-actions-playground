@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Game is on\n\n![Meme](https://i.redd.it/kkbzzprj8a7g1.gif)\n\n[View on Reddit](https://redd.it/1pmwmer)"
+"### me_irl\n\n![Meme](https://i.redd.it/gxo2swlqob7g1.png)\n\n[View on Reddit](https://redd.it/1pn1rok)"
