@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### How could you!\n\n![Meme](https://i.redd.it/9hc0qabf589g1.gif)\n\n[View on Reddit](https://redd.it/1puyh47)"
+"### Stay up Boyz\n\n![Meme](https://i.redd.it/4fam7qwiwf9g1.png)\n\n[View on Reddit](https://redd.it/1pvqgb4)"
