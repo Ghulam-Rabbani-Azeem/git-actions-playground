@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.imgur.com/lqIqBUu.png)\n\n[View on Reddit](https://redd.it/1pzsvv5)"
+"### The Great Meme Reset\n\n![Meme](https://i.redd.it/rgicetj1fnag1.png)\n\n[View on Reddit](https://redd.it/1q0tk5j)"
