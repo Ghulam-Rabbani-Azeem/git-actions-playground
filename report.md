@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### If it's the reset, who remembers the true og?\n\n![Meme](https://i.redd.it/swj2skm4t1bg1.png)\n\n[View on Reddit](https://redd.it/1q2iut2)"
+"### Just scooped him up\n\n![Meme](https://i.redd.it/ccctvnrl99bg1.gif)\n\n[View on Reddit](https://redd.it/1q3fn5b)"
