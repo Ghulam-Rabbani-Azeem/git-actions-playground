@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Don't even watch then\n\n![Meme](https://i.redd.it/jz7qgikg8kdg1.gif)\n\n[View on Reddit](https://redd.it/1qdsaxf)"
+"### And drinking orange juice hurts now 💔🫩\n\n![Meme](https://i.redd.it/jx3tnc5f8udg1.png)\n\n[View on Reddit](https://redd.it/1qf3n45)"
