@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### An Arabian title\n\n![Meme](https://i.redd.it/da3ruivm6ueg1.png)\n\n[View on Reddit](https://redd.it/1qjm02n)"
+"### it's always like this\n\n![Meme](https://i.redd.it/an1jxxm6bqeg1.png)\n\n[View on Reddit](https://redd.it/1qj2hs0)"
