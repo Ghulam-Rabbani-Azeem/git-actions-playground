@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/asmuaoo9g6fg1.png)\n\n[View on Reddit](https://redd.it/1ql5ft5)"
+"### Always 2 steps ahead\n\n![Meme](https://i.redd.it/34cw4fyp7gfg1.png)\n\n[View on Reddit](https://redd.it/1qmcpd1)"
