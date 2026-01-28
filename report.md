@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Boy vs Girls\n\n![Meme](https://i.redd.it/76cshcgjgpfg1.png)\n\n[View on Reddit](https://redd.it/1qnhr2z)"
+"### Enough money to spend on booze.\n\n![Meme](https://i.redd.it/zsd2gubumdfg1.gif)\n\n[View on Reddit](https://redd.it/1qm1mb7)"
