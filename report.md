@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Gotta catch it\n\n![Meme](https://i.redd.it/jozjmtgp2jgg1.gif)\n\n[View on Reddit](https://redd.it/1qrd8y8)"
+"### Mosquitos watch out\n\n![Meme](https://i.redd.it/dglsftshmcgg1.gif)\n\n[View on Reddit](https://redd.it/1qqk6l0)"
