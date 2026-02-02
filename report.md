@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Mosquitos watch out\n\n![Meme](https://i.redd.it/dglsftshmcgg1.gif)\n\n[View on Reddit](https://redd.it/1qqk6l0)"
+"### Me_irl\n\n![Meme](https://i.redd.it/t2co4ebfftgg1.png)\n\n[View on Reddit](https://redd.it/1qsp7yx)"
