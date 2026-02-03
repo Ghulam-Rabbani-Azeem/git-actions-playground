@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/t2co4ebfftgg1.png)\n\n[View on Reddit](https://redd.it/1qsp7yx)"
+"### Wich Ford would you take?\n\n![Meme](https://i.redd.it/m1rs6cki46hg1.png)\n\n[View on Reddit](https://redd.it/1qubuzx)"
