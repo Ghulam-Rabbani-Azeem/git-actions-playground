@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Let me take a picture on my digital phone connected to the internet\n\n![Meme](https://i.redd.it/plpsuc3achhg1.gif)\n\n[View on Reddit](https://redd.it/1qvokx8)"
+"### Oh look at me Mr Potter I can walk up stairs. Having legs truly is a wonderful life.\n\n![Meme](https://i.redd.it/a15lbazwa5hg1.gif)\n\n[View on Reddit](https://redd.it/1qu7jow)"
