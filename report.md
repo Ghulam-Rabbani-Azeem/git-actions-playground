@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Top 10 Anime Betrayals\n\n![Meme](https://i.redd.it/bgcipq5g5phg1.gif)\n\n[View on Reddit](https://redd.it/1qwop2e)"
+"### The AMOC would likely collapse in the early or late 21st Century.\n\n![Meme](https://i.redd.it/47vi3k2nndig1.png)\n\n[View on Reddit](https://redd.it/1qzrovw)"
