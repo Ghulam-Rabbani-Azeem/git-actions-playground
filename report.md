@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### The AMOC would likely collapse in the early or late 21st Century.\n\n![Meme](https://i.redd.it/47vi3k2nndig1.png)\n\n[View on Reddit](https://redd.it/1qzrovw)"
+"### Me_irl\n\n![Meme](https://i.redd.it/pcjvg2maf7ig1.png)\n\n[View on Reddit](https://redd.it/1qz074j)"
