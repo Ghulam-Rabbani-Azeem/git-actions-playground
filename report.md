@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### How did 2900 athletes, only half of which are men use 10000 condoms in 3 days??\n\n![Meme](https://i.redd.it/uc23z50lf1kg1.gif)\n\n[View on Reddit](https://redd.it/1r73819)"
+"### Me irl\n\n![Meme](https://i.redd.it/4cdngm7o0gkg1.png)\n\n[View on Reddit](https://redd.it/1r8xn8v)"
