@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I just need to not get dragged into another war in the middle east\n\n![Meme](https://i.redd.it/t64n3suiq6mg1.png)\n\n[View on Reddit](https://redd.it/1rgw1k6)"
+"### Me irl\n\n![Meme](https://i.redd.it/m61lhb0r3kmg1.png)\n\n[View on Reddit](https://redd.it/1riir4o)"
