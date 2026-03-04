@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me irl\n\n![Meme](https://i.redd.it/m61lhb0r3kmg1.png)\n\n[View on Reddit](https://redd.it/1riir4o)"
+"### Step aside goth girls, there's a new gooner trend in town\n\n![Meme](https://i.redd.it/do2d0a2x8lmg1.png)\n\n[View on Reddit](https://redd.it/1rimwfk)"
