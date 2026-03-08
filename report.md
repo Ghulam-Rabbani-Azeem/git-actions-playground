@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Just go back to your water land\n\n![Meme](https://i.redd.it/18hyrxab8jng1.png)\n\n[View on Reddit](https://redd.it/1rmxjro)"
+"### me_irl\n\n![Meme](https://i.redd.it/sarg645dhlng1.png)\n\n[View on Reddit](https://redd.it/1rn621p)"
