@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me irl\n\n![Meme](https://i.redd.it/u3pyzhuq5bog1.png)\n\n[View on Reddit](https://redd.it/1rqebe9)"
+"### Trust your leaders\n\n![Meme](https://i.redd.it/kl9llda8i4og1.png)\n\n[View on Reddit](https://redd.it/1rpjtzt)"
