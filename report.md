@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Trust your leaders\n\n![Meme](https://i.redd.it/kl9llda8i4og1.png)\n\n[View on Reddit](https://redd.it/1rpjtzt)"
+"### His Cardiologist was definitely watching him\n\n![Meme](https://i.redd.it/fkevvtfhcmog1.gif)\n\n[View on Reddit](https://redd.it/1rrr9cu)"
