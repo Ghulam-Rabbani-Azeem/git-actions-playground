@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Bloodbath &amp; Beyond\n\n![Meme](https://i.redd.it/xzfetxxsr4pg1.png)\n\n[View on Reddit](https://redd.it/1ru3vfd)"
+"### me_irl\n\n![Meme](https://i.redd.it/fadce66da8pg1.gif)\n\n[View on Reddit](https://redd.it/1ruh4ai)"
