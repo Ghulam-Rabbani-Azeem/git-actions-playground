@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/9hawlo3s63pg1.png)\n\n[View on Reddit](https://redd.it/1rtww37)"
+"### Cmon Eric, we just got married\n\n![Meme](https://i.redd.it/kxhew6l904pg1.png)\n\n[View on Reddit](https://redd.it/1ru0ot4)"
