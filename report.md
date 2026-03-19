@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Cmon Eric, we just got married\n\n![Meme](https://i.redd.it/kxhew6l904pg1.png)\n\n[View on Reddit](https://redd.it/1ru0ot4)"
+"### ah yes, graphics evolution\n\n![Meme](https://i.redd.it/kv5g1hcc6mpg1.png)\n\n[View on Reddit](https://redd.it/1rw7t2p)"
