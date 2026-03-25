@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/skbrdnkalrqg1.png)\n\n[View on Reddit](https://redd.it/1s1c75f)"
+"### Showing is better than telling.\n\n![Meme](https://i.redd.it/gw36fsr5hsqg1.png)\n\n[View on Reddit](https://redd.it/1s1fk9d)"
