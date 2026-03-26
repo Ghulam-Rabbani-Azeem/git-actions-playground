@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Showing is better than telling.\n\n![Meme](https://i.redd.it/gw36fsr5hsqg1.png)\n\n[View on Reddit](https://redd.it/1s1fk9d)"
+"### Pumped up kicks\n\n![Meme](https://i.redd.it/g2780vn1z0rg1.gif)\n\n[View on Reddit](https://redd.it/1s2jrpd)"
