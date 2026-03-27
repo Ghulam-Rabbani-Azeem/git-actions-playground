@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Pumped up kicks\n\n![Meme](https://i.redd.it/g2780vn1z0rg1.gif)\n\n[View on Reddit](https://redd.it/1s2jrpd)"
+"### AI facial recognition error\n\n![Meme](https://i.redd.it/2m614dezjcrg1.png)\n\n[View on Reddit](https://redd.it/1s41e1m)"
