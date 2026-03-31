@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/hch236i0g2sg1.png)\n\n[View on Reddit](https://redd.it/1s7a0aq)"
+"### Can't even window-shop in 2026!!!!\n\n![Meme](https://i.redd.it/e5aaw648w8sg1.png)\n\n[View on Reddit](https://redd.it/1s82y0e)"
