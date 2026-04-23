@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Daredevil Spoilers if you care\n\n![Meme](https://i.redd.it/lshflvelhowg1.gif)\n\n[View on Reddit](https://redd.it/1sscco9)"
+"### How could I make noodles without it?\n\n![Meme](https://i.redd.it/5i1diuvflvwg1.png)\n\n[View on Reddit](https://redd.it/1st9mhx)"
