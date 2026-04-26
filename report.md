@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me🕊irl\n\n![Meme](https://i.redd.it/4c4i7d9nyzwg1.png)\n\n[View on Reddit](https://redd.it/1sttvrz)"
+"### Innocent bystander, Maximum damage\n\n![Meme](https://i.redd.it/u6jbedex9hxg1.png)\n\n[View on Reddit](https://redd.it/1svznbj)"
