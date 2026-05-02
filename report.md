@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### She kinda had a point\n\n![Meme](https://i.redd.it/nxo3ren5ihyg1.gif)\n\n[View on Reddit](https://redd.it/1t0n5cp)"
+"### The accurate definition of Soft Power\n\n![Meme](https://i.redd.it/2ycxwsy0hjyg1.png)\n\n[View on Reddit](https://redd.it/1t0vk98)"
