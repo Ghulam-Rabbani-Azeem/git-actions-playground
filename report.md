@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Tarot readers be like\n\n![Meme](https://i.redd.it/6ls4f1b1t6zg1.png)\n\n[View on Reddit](https://redd.it/1t3v28d)"
+"### You're not making any sense, Otakon. You're going to do what with my mother?\n\n![Meme](https://i.redd.it/2tgh3bbbhdzg1.png)\n\n[View on Reddit](https://redd.it/1t4q73e)"
