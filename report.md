@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I choose you!\n\n![Meme](https://i.redd.it/zr1jv221ej0h1.gif)\n\n[View on Reddit](https://redd.it/1ta8qzg)"
+"### Me irl\n\n![Meme](https://i.redd.it/awpg60ny451h1.png)\n\n[View on Reddit](https://redd.it/1td5oit)"
