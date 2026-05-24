@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/35d6zhmz4q2h1.png)\n\n[View on Reddit](https://redd.it/1tkpuu5)"
+"### Every. Single. Update.\n\n![Meme](https://i.redd.it/tkrp4pct0s2h1.gif)\n\n[View on Reddit](https://redd.it/1tl029z)"
