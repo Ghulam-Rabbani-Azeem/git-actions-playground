@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### something something, thinking of bread\n\n![Meme](https://i.redd.it/odew29e3xt8h1.gif)\n\n[View on Reddit](https://redd.it/1ucjfx1)"
+"### Educate yourself during pride month\n\n![Meme](https://i.redd.it/5acbokb1mo8h1.png)\n\n[View on Reddit](https://redd.it/1ubxusq)"
