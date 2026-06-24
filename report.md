@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Educate yourself during pride month\n\n![Meme](https://i.redd.it/5acbokb1mo8h1.png)\n\n[View on Reddit](https://redd.it/1ubxusq)"
+"### And what range does your diesel get with empty tank?\n\n![Meme](https://i.redd.it/rpwbla1jzm8h1.png)\n\n[View on Reddit](https://redd.it/1ubpx1o)"
