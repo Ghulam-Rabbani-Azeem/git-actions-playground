@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/z6h08ur97mah1.png)\n\n[View on Reddit](https://redd.it/1ukkrve)"
+"### they're doing insane tricks on it\n\n![Meme](https://i.redd.it/9uq57ay51vah1.png)\n\n[View on Reddit](https://redd.it/1ulqgjs)"
