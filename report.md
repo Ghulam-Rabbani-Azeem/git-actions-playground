@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### My experience getting my first PlayStation\n\n![Meme](https://i.redd.it/zmoiljew3hch1.png)\n\n[View on Reddit](https://redd.it/1ut1c2t)"
+"### It's been rough out there\n\n![Meme](https://i.redd.it/7dbg5dcg3lch1.gif)\n\n[View on Reddit](https://redd.it/1uthb48)"
