@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It's been rough out there\n\n![Meme](https://i.redd.it/7dbg5dcg3lch1.gif)\n\n[View on Reddit](https://redd.it/1uthb48)"
+"### Genuinely why does this happen\n\n![Meme](https://i.redd.it/tf1t52oanych1.png)\n\n[View on Reddit](https://redd.it/1uv5xzf)"
