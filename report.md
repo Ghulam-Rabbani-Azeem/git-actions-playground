@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/t2mj0al7j0fh1.png)\n\n[View on Reddit](https://redd.it/1v4kafz)"
+"### Trying to process it\n\n![Meme](https://i.redd.it/vura1ke13efh1.png)\n\n[View on Reddit](https://redd.it/1v6ag92)"
