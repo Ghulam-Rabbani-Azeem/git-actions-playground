@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Thank you Sony! I love not owning games!\n\n![Meme](https://i.redd.it/cjnqwd5a13gh1.png)\n\n[View on Reddit](https://redd.it/1v9jhol)"
+"### Only I can spoil my single ass.\n\n![Meme](https://i.redd.it/8w5xdimhz7gh1.png)\n\n[View on Reddit](https://redd.it/1va6a2a)"
