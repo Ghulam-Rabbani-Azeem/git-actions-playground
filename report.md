@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Reddit being reddit\n\n![Meme](https://i.redd.it/hz121otk9hgh1.png)\n\n[View on Reddit](https://redd.it/1vbeeet)"
+"### me_irl\n\n![Meme](https://i.ibb.co/RGzzGJrK/reddit-1785531345904.jpg)\n\n[View on Reddit](https://redd.it/1vc35tu)"
