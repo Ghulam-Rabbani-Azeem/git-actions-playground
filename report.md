@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/f3vraq2opxhh1.png)\n\n[View on Reddit](https://redd.it/1vhxgsp)"
+"### Buddy, they won't let you retire.\n\n![Meme](https://i.redd.it/guca0ek3k6ih1.png)\n\n[View on Reddit](https://redd.it/1vj0s5q)"
