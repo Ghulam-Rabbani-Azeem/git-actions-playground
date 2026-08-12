@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I was there Gandalf...\n\n![Meme](https://i.redd.it/bssbezsl9zhh1.png)\n\n[View on Reddit](https://redd.it/1vi502p)"
+"### Do you trust in your muscle memory, or risk your job?\n\n![Meme](https://i.redd.it/xureax0xwuih1.gif)\n\n[View on Reddit](https://redd.it/1vm1uqd)"
