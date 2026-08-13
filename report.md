@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Do you trust in your muscle memory, or risk your job?\n\n![Meme](https://i.redd.it/xureax0xwuih1.gif)\n\n[View on Reddit](https://redd.it/1vm1uqd)"
+"### wait so you're telling me i did allat by myself\n\n![Meme](https://i.redd.it/wl10pr0qwzih1.png)\n\n[View on Reddit](https://redd.it/1vmo8ot)"
