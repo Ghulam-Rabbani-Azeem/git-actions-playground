@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Every time.\n\n![Meme](https://i.redd.it/wxrt21pqg5jh1.png)\n\n[View on Reddit](https://redd.it/1vnbtah)"
+"### Shrooms it is then\n\n![Meme](https://i.redd.it/h0q46b2xhdjh1.gif)\n\n[View on Reddit](https://redd.it/1vod7j1)"
