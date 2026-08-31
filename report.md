@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### He actually said this was the cure a crowd of pennsylvanians btw\n\n![Meme](https://i.redd.it/78txg17n2ylh1.png)\n\n[View on Reddit](https://redd.it/1vzyvkh)"
+"### Me_irl\n\n![Meme](https://i.redd.it/vlq5f3s6bylh1.png)\n\n[View on Reddit](https://redd.it/1w006a1)"
