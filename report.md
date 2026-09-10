@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### dysphoric duo\n\n![Meme](https://i.redd.it/8pswjv0yfwnh1.png)\n\n[View on Reddit](https://redd.it/1w8vtui)"
+"### Reddit devs making the app worse for no reason:\n\n![Meme](https://i.redd.it/34biw9epphoh1.png)\n\n[View on Reddit](https://redd.it/1wbkhqx)"
