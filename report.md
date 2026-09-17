@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Too relatable\n\n![Meme](https://i.redd.it/h3lf7bnq1uph1.png)\n\n[View on Reddit](https://redd.it/1whq20l)"
+"### me_irl\n\n![Meme](https://i.redd.it/aclc35iobvph1.png)\n\n[View on Reddit](https://redd.it/1whumuz)"
