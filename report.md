@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me irl\n\n![Meme](https://i.redd.it/2r7918n787rh1.png)\n\n[View on Reddit](https://redd.it/1wnw5s4)"
+"### The tables have turned\n\n![Meme](https://i.redd.it/c2flaoo9ehrh1.gif)\n\n[View on Reddit](https://redd.it/1wp3pt4)"
