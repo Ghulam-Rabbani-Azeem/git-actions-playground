@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### 42 words per minute\n\n![Meme](https://i.redd.it/vwkxe4n0t2sh1.gif)\n\n[View on Reddit](https://redd.it/1wrm52l)"
+"### Me_irl\n\n![Meme](https://i.redd.it/8e1gs816ysrh1.png)\n\n[View on Reddit](https://redd.it/1wqihhq)"
