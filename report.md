@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/8e1gs816ysrh1.png)\n\n[View on Reddit](https://redd.it/1wqihhq)"
+"### Living in Massachusetts is a trip, I'll tell ya\n\n![Meme](https://i.redd.it/iujbsv8bc6sh1.png)\n\n[View on Reddit](https://redd.it/1ws2y0q)"
