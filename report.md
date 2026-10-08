@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### finally, a worthy opponent\n\n![Meme](https://i.redd.it/axmypk0htyth1.gif)\n\n[View on Reddit](https://redd.it/1wzmfel)"
+"### Title*\n\n![Meme](https://i.redd.it/5gvr4vdw9wth1.png)\n\n[View on Reddit](https://redd.it/1wzb2sg)"
