@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### solo devs on X be like\n\n![Meme](https://i.redd.it/oa182qrmp3uh1.png)\n\n[View on Reddit](https://redd.it/1x06k42)"
+"### You know how much i sacrificed\n\n![Meme](https://i.redd.it/52mcnpob6muh1.png)\n\n[View on Reddit](https://redd.it/1x2blkm)"
