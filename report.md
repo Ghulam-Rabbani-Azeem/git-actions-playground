@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Anti-Epic Games Lamguage\n\n![Meme](https://i.redd.it/1fjwp5p70kvh1.png)\n\n[View on Reddit](https://redd.it/1x6bo0t)"
+"### It was only supposed to be 15 minutes.\n\n![Meme](https://i.redd.it/xevkb1rdh0wh1.png)\n\n[View on Reddit](https://redd.it/1x87qsz)"
