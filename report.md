@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Trust the Process\n\n![Meme](https://i.redd.it/4a0u0cgm5hwh1.png)\n\n[View on Reddit](https://redd.it/1xa6che)"
+"### It's like I'm not even there.\n\n![Meme](https://i.redd.it/9bsfz6asqrwh1.png)\n\n[View on Reddit](https://redd.it/1xbg5aq)"
