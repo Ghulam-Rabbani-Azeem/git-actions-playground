@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Mouthwatering........\n\n![Meme](https://i.redd.it/6qq9fmz9ncxh1.gif)\n\n[View on Reddit](https://redd.it/1xe033u)"
+"### Me_irl\n\n![Meme](https://i.redd.it/wxf1e8zj31xh1.png)\n\n[View on Reddit](https://redd.it/1xck201)"
