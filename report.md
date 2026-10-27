@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/8inp09fb9kxh1.png)\n\n[View on Reddit](https://redd.it/1xevcsz)"
+"### ALL FANDOM :\n\n![Meme](https://i.redd.it/f0mhithiusxh1.png)\n\n[View on Reddit](https://redd.it/1xfuiv1)"
