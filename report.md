@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/lybr348jy0zh1.png)\n\n[View on Reddit](https://redd.it/1xl6tzh)"
+"### Where's the love for bald women at?\n\n![Meme](https://i.redd.it/n24s6mlprazh1.png)\n\n[View on Reddit](https://redd.it/1xmfcib)"
