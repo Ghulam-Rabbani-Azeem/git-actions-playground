@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It's been an... interesting experience\n\n![Meme](https://i.redd.it/gaqfk1j47wzh1.png)\n\n[View on Reddit](https://redd.it/1xozvhi)"
+"### can we have Internet 2 please\n\n![Meme](https://i.redd.it/fylqwelmeb0i1.png)\n\n[View on Reddit](https://redd.it/1xqplc5)"
