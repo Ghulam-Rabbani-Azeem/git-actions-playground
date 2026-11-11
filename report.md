@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/r16ockqosb0i1.png)\n\n[View on Reddit](https://redd.it/1xqqxym)"
+"### Almost done?\n\n![Meme](https://i.redd.it/5qx9skm4kv0i1.gif)\n\n[View on Reddit](https://redd.it/1xt2yze)"
