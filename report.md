@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Its actually here though...\n\n![Meme](https://i.redd.it/pbvmm9gc9h2i1.gif)\n\n[View on Reddit](https://redd.it/1xzxmn3)"
+"### apps when you dont pay the pro\n\n![Meme](https://i.redd.it/l6lt9q5tqs2i1.png)\n\n[View on Reddit](https://redd.it/1y189sy)"
