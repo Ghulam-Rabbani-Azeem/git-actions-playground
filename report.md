@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Guess what... RTX 6090 just got tested\n\n![Meme](https://i.redd.it/aokcsgheoe3i1.png)\n\n[View on Reddit](https://redd.it/1y3q2v9)"
+"### me_irl\n\n![Meme](https://i.redd.it/8g3sjjktij3i1.png)\n\n[View on Reddit](https://redd.it/1y4aaa8)"
